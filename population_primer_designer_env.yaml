@@ -1,4 +1,4 @@
-name: primer_designer_env
+name: population_primer_designer_env
 channels:
   - defaults
   - bioconda
