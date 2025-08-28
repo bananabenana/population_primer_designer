@@ -1,4 +1,6 @@
 # population_primer_designer
+
+### WORK IN PROGRESS ==========================================
 This bioinformatics tool designs primers against single genomes or large populations. It identifies shared genomic regions in desired genomes ensuring these regions are absent from unwanted genomes. Then primers are designed on these regions and in silico PCR is run to confirm sizes.
 This is done in parallel, so it means you can run 10,000 genomes through this and it will efficiently generate primers.
 
