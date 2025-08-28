@@ -1,0 +1,3 @@
+example_data/genomes/GCF_022869665.1.fasta	reference
+example_data/genomes/GCF_000240185.1.fasta	include
+example_data/genomes/GCF_020525545.1.fasta	exclude
